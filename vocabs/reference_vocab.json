@@ -1,0 +1,8 @@
+{
+    "nouns": ["boy", "recipe", "app", "architect", "thing", "cook", "developer", "chef", "piece", "software", "container", "baker", "course", "dish", "person", "engineer", "designer", "girl", "programmer", "desert", "child", "code", "lines", "meal", "culinarian", "saucier"], "adjectives": ["tasty", "unmanageable", "delicious", "dangerous", "blank", "clean", "professional", "basic", "original", "mesmorizing", "complicated", "simplistic", "great", "raw"], 
+    "verbs": ["eats", "cooks", "composes", "roasts", "builds", "develops", "tries", "evaluates", "writes", "scribbles", "tastes", "does", "prepares", "makes", "bakes"], 
+    "default_noun": "<unk_noun>", 
+    "default_adj": "<unk_adj>", 
+    "default_verb": "<unk_verb>", 
+    "default_unk": "<unk_word>"
+}

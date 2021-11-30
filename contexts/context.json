@@ -1,0 +1,14 @@
+{
+    "0": ["delicious", "arg"],
+    "1": ["tasty", "arg"],
+    "2": ["clean", "arg"],
+    "3": ["complicated", "arg"],
+    "4": ["cooks", "sbj"],
+    "5": ["bakes", "sbj"],
+    "6": ["writes", "sbj"],
+    "7": ["evaluates", "sbj"],
+    "8": ["tastes", "obj"],
+    "9": ["eats", "obj"],
+    "10": ["develops", "obj"],
+    "11": ["builds", "obj"]
+}

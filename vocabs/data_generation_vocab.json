@@ -1,0 +1,23 @@
+{
+    "Nsbj":{
+        "common":["child", "person", "girl", "boy"],
+        "FOOD":["cook", "chef", "saucier", "baker", "culinarian"],
+        "IT": ["programmer", "engineer", "developer", "architect", "designer"]
+    },
+    "Nobj":{
+        "common":["thing", "container"],
+        "FOOD":["meal", "recipe", "dish", "desert", "course"],
+        "IT": ["code", "software", "app", "piece", "lines"]
+        
+    },
+    "ADJ": {
+        "common":["great", "basic", "original", "professional"],
+        "FOOD":["delicious", "tasty", "raw", "mesmorizing", "blank"],
+        "IT": ["clean", "complicated", "unmanageable", "simplistic", "dangerous"]
+    },
+    "VB": {
+        "common":["does", "prepares", "makes", "tries", "composes"],
+        "FOOD":["cooks", "bakes", "tastes", "eats", "roasts"],
+        "IT": ["writes", "evaluates", "develops", "builds", "scribbles"]
+    }
+}
